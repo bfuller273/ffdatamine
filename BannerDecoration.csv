@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4
-#,,,,,
-int32,int32,int32,uint16,uint16,str
+#,Image,Icon,UnlockCondition,SortKey,Name
+int32,Image,Image,BannerCondition,uint16,str
 0,0,82093,0,0,"None"
 1,192001,82093,1,1,"None"
 2,192002,82093,1,2,"Laurels"
@@ -69,8 +69,8 @@ int32,int32,int32,uint16,uint16,str
 65,192429,82093,340,3221,"Crystal Conflict Arms 3"
 66,192430,82093,341,3002,"Azure Conflict Emblem"
 67,192431,82093,342,3003,"Crimson Conflict Emblem"
-68,0,0,0,0,""
-69,0,0,0,0,""
+68,192705,82093,343,2400,"Sil'dihn Emblem"
+69,192966,82093,344,2300,"Omicron Matrices"
 70,192601,82093,346,1000,"Lominsan Flag"
 71,192602,82093,346,1001,"Gridanian Flag"
 72,192603,82093,346,1002,"Ul'dahn Flag"

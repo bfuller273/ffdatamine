@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4
-#,,,,,
-int32,int32,int32,uint16,uint16,str
+#,Image,Icon,UnlockCondition,SortKey,Name
+int32,Image,Image,BannerCondition,uint16,str
 0,0,82092,0,0,"None"
 1,191001,82092,1,1,"None"
 2,191002,82092,1,3,"Fade to Black"
@@ -69,7 +69,7 @@ int32,int32,int32,uint16,uint16,str
 65,191429,82092,340,3221,"Crystal Conflict 3"
 66,191430,82092,341,3002,"Azure Conflict"
 67,191431,82092,342,3003,"Crimson Conflict"
-68,0,0,0,0,""
+68,191705,82092,343,2400,"Sil'dihn Subterrane (Variant)"
 69,191016,82092,1,32,"Comic Panel"
 70,191019,82092,1,6,"Metallic Arch"
 71,191020,82092,1,33,"Film"
